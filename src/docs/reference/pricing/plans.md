@@ -3,7 +3,7 @@ title: Pricing Plans
 ---
 
 Railway plans and pricing are designed to support you however you work. We charge a base subscription fee for the plan you sign up to, on top of your resource and add-on usages.
-
+ 
 ## Plans
 
 Railway offers three plans in addition to a [Free Trial](/reference/pricing/free-trial):
